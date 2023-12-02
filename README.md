@@ -1,7 +1,7 @@
 # twodscrolling
 
-A new Flutter project.
-
+This is example for two dimensional scrolling. Using Plugin two_dimensional_scrollables with TableView.List Method.
+ 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
